@@ -1,0 +1,40 @@
+{
+  "clientes": [
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": "319381983",
+      "email": "miguel@juan.com",
+      "empresa": "Cocina Miguel"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": "1398198938",
+      "email": "pedro@juan.com",
+      "empresa": "Tienda Pedro Parker"
+    },
+    {
+      "id": 6,
+      "nombre": "Maria",
+      "telefono": "31983913",
+      "email": "maria@gmail.com",
+      "empresa": "Salon de belleza Maria"
+    },
+    {
+      "id": 7,
+      "nombre": "Luis",
+      "telefono": "31983913",
+      "email": "luis@gmail.com",
+      "empresa": "Supermercado Luis"
+    },
+    {
+      "nombre": "Emerson",
+      "empresa": "IT with Emerson",
+      "email": "emerson.zapatarivas@gmail.com",
+      "telefono": "31961404",
+      "notas": "Test",
+      "id": 8
+    }
+  ]
+}
